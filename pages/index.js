@@ -10,6 +10,13 @@ export default function Home() {
           <center>No</center>
         </font>
       </p>
+      <p>
+        <center>
+          <a href="https://www.comebackalive.in.ua/" className={styles.link}>
+            Donate to Ukraine
+          </a>
+        </center>
+      </p>
     </div>
   );
 }
